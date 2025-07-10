@@ -31,3 +31,5 @@ As part of the project team, I contributed to all key components of the baseline
 * Pix4D Mapper
 * Microsoft word
 * Photoshop
+
+![Baseline study](./visuals/Baseline_study.png)
