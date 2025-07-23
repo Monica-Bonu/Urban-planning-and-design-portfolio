@@ -1,6 +1,8 @@
+
+# Portfolio update status: Ongoing
+
+
 # Project Details
-
-
 
 TITLE: Bende Physical Development Plan 2019 - 2044
 
@@ -35,7 +37,7 @@ Since the implementation of the SDGs in 2015, Nigeria has continued to demonstra
 ![Baseline study](./visuals/Baseline_study.png)
 
 
-# Physical Development Plan 2019-20244
+# Physical Development Plan 2019-2044
 With the projected population growth in Bende by 2040, there will be a need for housing and infrastructure to accommodate both current and future residents. This requires redefining the development boundaries for Bende town by 2044. Insights from elevation analysis guided this boundary adjustment.  The proposed development plan addresses key aspects for the future growth of Bende town, including land use allocation and strategic provision of social and physical infrastructure to support the town's development in line with the SDGS. Specifically, this plan targets five key SDG goals: 3, 4, 6, 8, 9, 11, 13, 15, and 17. Additionally, it includes other proposal not shown on the map above include establishing the Bende committee, comprising local stakeholders, to oversee the realisation of the development plan's objectives and the renovation and improvement of existing infrastructure. 
 
 ![Bende_development_plan](./visuals/Bende_development_plan.png)
